@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Transparent Widget</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_text">In Google Now Launcher you cannot have an empty page on the home screen if you have at least one widget. With this app you can have multiple pages on your home screen. Simply increase the size of the widget (or just add/drag the initial small widget on every home screen to get a new page) to occupy the whole screen and keep on adding. NOTE: The number of pages depends upon the theme/launcher you are using.</string>
+</resources>
